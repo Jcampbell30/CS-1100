@@ -34,7 +34,7 @@ public class tj
         //creating a scanner calling in
         name = in.next();
         //setting name to user input
-        System.out.println("You're a real mcAsshole " + name);
+        System.out.println("You're a real good person " + name);
         //printing out string message with String Concatenation
     }
     public void getAge(){
@@ -46,10 +46,6 @@ public class tj
         i = s.nextInt();
         
         System.out.println("Your age is " + i);
-        
-        
-        
-        
-        
+
     }
 }
