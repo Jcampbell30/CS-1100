@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=aaf
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ aaf\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=catchPhrase
+comment2.target=void\ SetCatchPhrase(java.lang.String)
+comment3.params=
+comment3.target=void\ getCatchPhrase()
+comment4.params=Food
+comment4.target=void\ setFavoriteFood(java.lang.String)
+comment5.params=
+comment5.target=void\ getFavoriteFood()
+comment6.params=
+comment6.target=void\ fillArray()
+numComments=7

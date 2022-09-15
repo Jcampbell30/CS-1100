@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Fibonacci
+comment0.text=\r\n\ Jared\ Campbell\r\n\ RJN259\r\n\ \r\n
+comment1.params=value
+comment1.target=Fibonacci(int)
+comment2.params=
+comment2.target=long\ getFiboNumber()
+numComments=3

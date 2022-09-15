@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=MaxMinFromArray
+comment0.text=\r\n\ Jared\ Campbell\r\n\ RJN259\r\n\ \r\n
+comment1.params=
+comment1.target=MaxMinFromArray()
+comment2.params=
+comment2.target=void\ getMaxFromArray1D()
+comment3.params=
+comment3.target=void\ getMinFromArray1D()
+comment4.params=
+comment4.target=void\ getMaxFromArray2D()
+comment5.params=
+comment5.target=void\ getMinFromArray2D()
+comment6.params=
+comment6.target=void\ get_MaxFromArray1D()
+comment7.params=
+comment7.target=void\ get_MinFromArray1D()
+comment8.params=
+comment8.target=void\ get_MaxFromArray2D()
+comment9.params=
+comment9.target=void\ get_MinFromArray2D()
+numComments=10
