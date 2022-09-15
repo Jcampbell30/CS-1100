@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=ArrayMethods
+comment0.text=\r\n\ This\ class\ contains\ methods\ for\ Arrays\r\n\ Jared\ Campbell\ RJN259\r\n\ BlueJ\ \r\n
+comment1.params=values
+comment1.target=void\ swapFirstAndLast(int[])
+comment10.params=values
+comment10.target=boolean\ hasDuplicates(int[])
+comment2.params=values
+comment2.target=void\ shiftRight(int[])
+comment3.params=values
+comment3.target=void\ setEvensToZero(int[])
+comment4.params=values
+comment4.target=void\ largerOfAdjacents(int[])
+comment5.params=values
+comment5.target=int[]\ removeMiddle(int[])
+comment6.params=values
+comment6.target=void\ moveEvensToFront(int[])
+comment7.params=values
+comment7.target=int\ ret2ndLargest(int[])
+comment8.params=values
+comment8.target=boolean\ isSorted(int[])
+comment9.params=values
+comment9.target=boolean\ hasAdjDuplicates(int[])
+numComments=11

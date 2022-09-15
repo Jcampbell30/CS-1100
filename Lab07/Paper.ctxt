@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Paper
+comment0.text=\r\nJared\ Campbell\r\nRjn259\r\nLab07\r\n
+comment1.params=height\ length
+comment1.target=Paper(double,\ double)
+comment2.params=
+comment2.target=double\ getWidthInMillimeters()
+comment3.params=
+comment3.target=double\ getHieghtInMillimeters()
+comment4.params=
+comment4.target=double\ getHieghtInInches()
+comment5.params=
+comment5.target=double\ getWidthInInches()
+numComments=6

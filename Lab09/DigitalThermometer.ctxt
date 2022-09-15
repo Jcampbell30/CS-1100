@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DigitalThermometer
+comment0.text=\r\nJared\ Campbell\r\nRJN259\r\n
+comment1.params=Vm
+comment1.target=DigitalThermometer(double)
+comment2.params=
+comment2.target=double\ getVoltage()
+comment3.params=Vm
+comment3.target=void\ setVoltage(double)
+comment4.params=
+comment4.target=void\ calculateTemp()
+numComments=5

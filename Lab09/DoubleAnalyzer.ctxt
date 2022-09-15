@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DoubleAnalyzer
+comment0.text=\r\nJared\ Campbell\r\nRjn259\r\n
+comment1.params=a
+comment1.target=DoubleAnalyzer(double)
+comment2.params=a
+comment2.target=void\ setValue(double)
+comment3.params=
+comment3.target=double\ getValue()
+comment4.params=
+comment4.target=void\ AnalyzeDouble()
+numComments=5

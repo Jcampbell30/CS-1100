@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CarSimulator
+comment0.text=\r\n\ Jared\ Campbell\r\n\ Rjn259\r\n\ Lab07\r\n\ Task03\:\ Modified\ problem\ E4.10\ from\ the\ Book.\ \ Create\ a\ class\ called\ CarSimulator.\ \r\n\ You\ will\ need\ three\ instance\ variables\ to\ store\:\r\n\u2022The\ number\ of\ gallons\ of\ gas\ in\ the\ tank\r\n\u2022The\ fuel\ efficiency\ in\ miles\ per\ gallon\r\n\u2022The\ price\ of\ gas\ per\ gallon\r\nCreate\ the\ following\ methods\:\r\n\ \u2022getCostPer100Miles()\ \u2013\ the\ cost\ to\ drive\ 100\ miles\r\n\ \ \u2022getDistance()\ \u2013\ how\ far\ the\ car\ can\ go\ with\ the\ gas\ in\ the\ tank\r\nIn\ your\ main\ method\ for\ your\ tester\ class\ insert\ code\ to\ prompt\ the\ \r\nuser\ to\ enter\ values\ for\ the\ instance\ variables\ described\ above.\ \ \r\nThen\ use\ the\ Scanner\ object\ created\ in\ task02\ to\ read\ in\ these\ values.\ \r\n\ You\ will\ then\ create\ a\ CarSimulator\ object\ using\ these\ values\ provided\ by\ the\ user.\ \r\n\ Finally,\ test\ the\ methods\ you\ created\ for\ this\ task.\ \ Use\ printf\ to\ limit\ the\ number\ of\ decimal\ places\ in\ your\ printouts.\ \ \r\n\ You\ do\ not\ need\ to\ print\ expected\ values.\r\n\ For\ your\ input\ values\ use\ 25\ gallons\ in\ the\ tank,\ fuel\ efficiency\ of\ 26.35\ MPG,\ and\ $2.13\ cost\ per\ gallon.\r\n\r\n\r\n
+comment1.params=g\ mpg\ ppg
+comment1.target=CarSimulator(int,\ double,\ double)
+comment2.params=
+comment2.target=double\ getCostPer100Miles()
+comment3.params=
+comment3.target=double\ getDistance()
+numComments=4

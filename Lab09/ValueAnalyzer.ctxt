@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ValueAnalyzer
+comment0.text=\r\nJared\ Campbell\r\nRjn259\r\n
+comment1.params=x
+comment1.target=ValueAnalyzer(int)
+comment2.params=x
+comment2.target=void\ setValue(int)
+comment3.params=
+comment3.target=int\ getValue()
+comment4.params=
+comment4.target=int\ valueAnalyzer()
+numComments=5
