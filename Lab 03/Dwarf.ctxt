@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Dwarf
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Dwarf\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=maxSt
+comment1.target=void\ setMaxStrength(int)
+comment2.params=currentSt
+comment2.target=void\ setCurrentStrength(int)
+comment3.params=
+comment3.target=Dwarf()
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dwarf\r\n
+comment4.params=y
+comment4.target=int\ sampleMethod(int)
+comment4.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment5.params=
+comment5.target=int\ getCurrentStrength()
+comment6.params=
+comment6.target=int\ getMaxStrength()
+numComments=7
