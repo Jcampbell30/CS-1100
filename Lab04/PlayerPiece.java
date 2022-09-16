@@ -53,13 +53,6 @@ public class PlayerPiece
         moveRight = locX + 1;
         locXY = locX & locY;
         
-        
-    
-    
-        
-                
-        
-        
        
     }
     
@@ -76,17 +69,6 @@ public class PlayerPiece
         currentSpecialPower = curSP;
         maxSpecialPower = maxSP;
         locXY = locXY;
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
         
         
         //fill in the rest of the values here
@@ -166,7 +148,6 @@ public class PlayerPiece
     public void setPieceName(String name) {
         pieceName = name;
  
-        
     }
     public void setLocXY(int x, int y){
         y = locY;
